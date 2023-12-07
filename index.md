@@ -1,4 +1,4 @@
-# Hello World
+# Hello World!
 
 Welcome to my reflection website! My name is Howell Nguyen, but I may be preferred to Howie. I am a student at Cal State Fullerton (https://www.fullerton.edu), graduating around 2027 or 2029 and majoring in computer engineering.
 
